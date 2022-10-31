@@ -1,6 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif)](https://kerenpetras.io)
-<h1 align="center">Hey There! 👋, I'm Keren Petras</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+[![MasterHead](https://crestwood.on.ca/wp-content/uploads/2021/12/Girls-Who-Code-Seo.jpg)](https://kerenpetras.io)
+<h1 align="center">Hey There! 👋, I'm Keren Petras🌷 </h1>
+<h3 align="center">A passionate frontend developer from Israel 👩‍💻 </h3>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerenpetras&label=Profile%20views&color=0e75b6&style=flat" alt="kerenpetras" /> </p>
 
@@ -12,7 +13,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3fislCk](https://bit.ly/3fislCk)
 
-- ⚡ Fun fact **I am Gamer, Dancer, Singer, Videographer, Graphic designer & A Zodic Addict**
+- ⚡ Fun fact **I am Gamer, Dancer, Singer & a Zodic Lover ♓️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
