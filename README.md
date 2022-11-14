@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerenpetras&label=Profile%20views&color=0e75b6&style=flat" alt="kerenpetras" /> </p>
 
-- 🌱 I’m currently learning **React / Python**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kerenpetras/](https://www.linkedin.com/in/kerenpetras/)
 
