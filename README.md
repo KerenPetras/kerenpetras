@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kerenpetras@gmail.com**
 
-- 📄 Know about my experiences [Click Me!](https://drive.google.com/file/d/1qYhXlO3vWj-DHuMu2OUfm01zpkMV3JAK/view?usp=share_link)
+- 📄 Know about my experiences [Click Here!](https://drive.google.com/file/d/1qYhXlO3vWj-DHuMu2OUfm01zpkMV3JAK/view?usp=share_link)
 
 - ⚡ Fun fact **I am Gamer, Dancer, Singer & a Zodic Lover ♓️**
 
