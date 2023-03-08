@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fullstack Javascript @ Developers Institude**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kerenpetras/](https://www.linkedin.com/in/kerenpetras/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/kerenpetras/)
 
 - 📫 How to reach me **kerenpetras@gmail.com**
 
